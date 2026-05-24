@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "channel": "private-playtest",
+  "buildId": "0.2.13-playtest",
+  "discordIdHashNamespace": "PulseDiverPlaytest:v1:",
+  "requireOnlineCheck": true,
+  "message": "Pulse Diver private playtest whitelist",
+  "allowedDiscordUsers": [
+    {
+      "discordUserIdHash": "b1f77c21cb194410c96be3d7187d426ca1d6240d9884c5f1a4ad186c6eec5fdd",
+      "testerName": "Jelly",
+      "testerId": "PD-TEST-000",
+      "revoked": false
+    }
+  ],
+  "revokedDiscordUserIdHashes": []
+}
