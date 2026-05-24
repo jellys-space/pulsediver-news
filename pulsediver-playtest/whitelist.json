@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "private-playtest",
-  "buildId": "0.2.13-playtest",
+  "buildId": "0.1.0-playtest",
   "discordIdHashNamespace": "PulseDiverPlaytest:v1:",
   "requireOnlineCheck": true,
   "message": "Pulse Diver private playtest whitelist",
