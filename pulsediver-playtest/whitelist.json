@@ -11,6 +11,72 @@
       "testerName": "Jelly",
       "testerId": "PD-TEST-000",
       "revoked": false
+    },
+    {
+      "discordUserIdHash": "4ce218d3269062c5c9936e1e1aae08a61b1ffbbab67eff5d00eab06839c8396c",
+      "testerName": "Blup",
+      "testerId": "PD-TEST-001",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "2d4ad4ff59131e3eb4d40f61df7dc240a30caf4e18a3dfe3ee6ffbc8cced6b9d",
+      "testerName": "SKAROT",
+      "testerId": "PD-TEST-002",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "fd95258b11a5ce5ac891e351cb9debcdb699266183910bd9ccb6a1f65195cc95",
+      "testerName": "Zecro",
+      "testerId": "PD-TEST-003",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "9ff95c12d0fe90afb604f2b0619f3b0b3a61fc2eb03b7037e2d4d82ec577082e",
+      "testerName": "Aiko",
+      "testerId": "PD-TEST-004",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "b9b4ab1ce14fe3c19fc4ba08c4cade998f3e15d63d78686f048f351e646f82d7",
+      "testerName": "Cal",
+      "testerId": "PD-TEST-005",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "86d59d950d6388f85dee8b9025b6ddd4e2ac6500819958f23e7e9e6988a379a4",
+      "testerName": "Sieglinde",
+      "testerId": "PD-TEST-006",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "222cd75148e0b4613de9f2bae7844e0f2abca9e6b9fe3fc10a4857f7fb039434",
+      "testerName": "Xruumi",
+      "testerId": "PD-TEST-007",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "5daeddb40b1b910e2ac870d983f4cb20813b2a32dbaea233a463095954183e06",
+      "testerName": "Spinel",
+      "testerId": "PD-TEST-008",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "77b6928ff895d011811e3573f89f27752569dcb1091a91ad9f378a4622b95ec9",
+      "testerName": "Kemettalk",
+      "testerId": "PD-TEST-009",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "a0a1abc9f92e936c4a5036e20cdc5854b13ce6f574a458dbc70cfa5eb2bd3989",
+      "testerName": "Bea",
+      "testerId": "PD-TEST-010",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "b95de1ae80922fc43bce4d0da4ebcb78436f730ad7f953189bc02dfba43a46f9",
+      "testerName": "Sharsame",
+      "testerId": "PD-TEST-011",
+      "revoked": false
     }
   ],
   "revokedDiscordUserIdHashes": []
