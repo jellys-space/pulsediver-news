@@ -1,8 +1,8 @@
 {
-  "id": "2026-05-24-dont-share",
+  "id": "2026-05-25-dont-share",
   "enabled": true,
   "title": "Welcome to Pulse Diver!",
-  "body": "Hey divers! Welcome to the closed pre-alpha test. Please do not share your copy with unauthorized users, and report bugs to Jelly. Thanks! <3 Happy surfin~.",
+  "body": "Hey divers! Welcome to the closed pre-alpha test. Please do not share your copy with unauthorized users, and report bugs to Jelly. Also, do not stream to live platforms at this time. Thanks! <3 Happy surfin~.",
   "buttonText": "Dismiss",
-  "updatedUtc": "2026-05-24T12:00:00Z"
+  "updatedUtc": "2026-05-25T12:00:00Z"
 }
