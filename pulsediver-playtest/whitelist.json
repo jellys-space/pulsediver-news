@@ -77,6 +77,108 @@
       "testerName": "Sharsame",
       "testerId": "PD-TEST-011",
       "revoked": false
+    },
+        {
+      "discordUserIdHash": "f43597f10d9b82967d95098bd2c60ebcfc4958a36d5efbe68f5ab3fcbcb59c67",
+      "testerName": "Luna",
+      "testerId": "PD-TEST-012",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "485be93b1aecec4fedf0343a52f05db290f732faa9531ad231ad9d02df03845a",
+      "testerName": "MystNAD",
+      "testerId": "PD-TEST-013",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "d91dcf3276da9993331b37738d2de9cd42f7b5aa03fb599592e0c54f0b4d0d97",
+      "testerName": "Lia",
+      "testerId": "PD-TEST-014",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "3724ed4b6024c28e149814879bebd2973294143678578350fc582beba0f4d13f",
+      "testerName": "Winston",
+      "testerId": "PD-TEST-015",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "969a02491e2fbb2c6b9e978f579548a3af561e018aed0ab669c801bf84af9de4",
+      "testerName": "Beth",
+      "testerId": "PD-TEST-016",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "c29a0757733c435de11867ee83eb3f01ae28ef3ebfd2f4130d6fae9853847d3a",
+      "testerName": "Zin",
+      "testerId": "PD-TEST-017",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "faea8519207f6a5c7fc3a437c30e7c9d2e167082e172da00f13e986de57acc85",
+      "testerName": "Toothless",
+      "testerId": "PD-TEST-018",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "a05dab0690773bfd148058e700da7d36f26a944ff34cf1012507ca4ec621d1e0",
+      "testerName": "Fish",
+      "testerId": "PD-TEST-019",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "47fb729430b4e9caaf1942e10caa96abdb01e4540037e53e81e18437d2414b0a",
+      "testerName": "Marx",
+      "testerId": "PD-TEST-020",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "5480a854df49439622c541e0b84166eb5926a79c42a87e5fb11db175613387ac",
+      "testerName": "Matt",
+      "testerId": "PD-TEST-021",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "723ec5b584a4caad2c38ddc555a6f16ac977ecd1c9559d6ba09241d00371e701",
+      "testerName": "Tom",
+      "testerId": "PD-TEST-022",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "95edbf2049833615c917e027127424aafde7701804d9b0cc550edb3a9e25f8d1",
+      "testerName": "Turtle",
+      "testerId": "PD-TEST-023",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "6defef553112b682e27bdaab2def2b50a4a7f610b38b74596f9bf2b39906a34b",
+      "testerName": "Mollification",
+      "testerId": "PD-TEST-024",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "bb2531e3711f767b9ffdcd915cd87a49d6a633452c35ad349e4b057c0e60c427",
+      "testerName": "Falflet",
+      "testerId": "PD-TEST-025",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "c30506a52512a19b33d1002dc7a8efde2be625e91d50e1f6d387d557b9bf5db9",
+      "testerName": "Candii",
+      "testerId": "PD-TEST-026",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "781bacbf7a149949e4e0b1b7b4a8442fa346e5921c4e8482eeecc41b455c465c",
+      "testerName": "Wyvern",
+      "testerId": "PD-TEST-027",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "fd95e880c45523d20bd709bd570f6df7fa98884f67424d22f0d1e6938fae8f23",
+      "testerName": "Cheese",
+      "testerId": "PD-TEST-028",
+      "revoked": false
     }
   ],
   "revokedDiscordUserIdHashes": []
