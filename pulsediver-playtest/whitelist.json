@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "private-playtest",
-  "buildId": "0.1.0-playtest",
+  "buildId": "0.2.0-overhaul-playtest",
   "discordIdHashNamespace": "PulseDiverPlaytest:v1:",
   "requireOnlineCheck": true,
   "message": "Pulse Diver private playtest whitelist",
@@ -55,12 +55,6 @@
       "revoked": false
     },
     {
-      "discordUserIdHash": "5daeddb40b1b910e2ac870d983f4cb20813b2a32dbaea233a463095954183e06",
-      "testerName": "Spinel",
-      "testerId": "PD-TEST-008",
-      "revoked": false
-    },
-    {
       "discordUserIdHash": "77b6928ff895d011811e3573f89f27752569dcb1091a91ad9f378a4622b95ec9",
       "testerName": "Kemettalk",
       "testerId": "PD-TEST-009",
@@ -88,18 +82,6 @@
       "discordUserIdHash": "485be93b1aecec4fedf0343a52f05db290f732faa9531ad231ad9d02df03845a",
       "testerName": "MystNAD",
       "testerId": "PD-TEST-013",
-      "revoked": false
-    },
-    {
-      "discordUserIdHash": "d91dcf3276da9993331b37738d2de9cd42f7b5aa03fb599592e0c54f0b4d0d97",
-      "testerName": "Lia",
-      "testerId": "PD-TEST-014",
-      "revoked": false
-    },
-    {
-      "discordUserIdHash": "3724ed4b6024c28e149814879bebd2973294143678578350fc582beba0f4d13f",
-      "testerName": "Winston",
-      "testerId": "PD-TEST-015",
       "revoked": false
     },
     {
@@ -178,6 +160,12 @@
       "discordUserIdHash": "fd95e880c45523d20bd709bd570f6df7fa98884f67424d22f0d1e6938fae8f23",
       "testerName": "Cheese",
       "testerId": "PD-TEST-028",
+      "revoked": false
+    },
+    {
+      "discordUserIdHash": "503a2c6a971598223c5d952beb4e4bd5624bc11ef20376fdd6fef7b74c8724e3",
+      "testerName": "Jebifyer",
+      "testerId": "PD-TEST-029",
       "revoked": false
     }
   ],
