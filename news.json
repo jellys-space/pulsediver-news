@@ -1,8 +1,8 @@
 {
-  "id": "2026-05-27-dont-share",
+  "id": "2026-09-19-overhaul-build",
   "enabled": true,
-  "title": "Welcome to Pulse Diver!",
-  "body": "Hey divers! Welcome to the closed pre-alpha test. Please read the ReadMe.txt provided. Please do not share your copy with unauthorized users, and report bugs to Jelly. Also, do not stream to live platforms at this time. Thanks! <3 Happy surfin~.",
+  "title": "Pulse Diver 0.2.0 Overhaul Build",
+  "body": "Hey Divers! We have changed a lot since your last playtest build. We've implemented many of your suggested features and bug fixes. We've overhauled the graphics and note generation. As always, do not share your copy of Pulse Diver with other people. Report bugs in the Discord. Happy diving~",
   "buttonText": "Dismiss",
-  "updatedUtc": "2026-05-27T12:00:00Z"
+  "updatedUtc": "2026-09-19T16:07:00Z"
 }
