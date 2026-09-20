@@ -167,6 +167,12 @@
       "testerName": "Jebifyer",
       "testerId": "PD-TEST-029",
       "revoked": false
+    },
+    {
+      "discordUserIdHash": "5eb1c859cbcb8c7c2b3964ada14f1fb0ed7eb366d8e800eca0f8f3324d435297",
+      "testerName": "Autumn",
+      "testerId": "PD-TEST-030",
+      "revoked": false
     }
   ],
   "revokedDiscordUserIdHashes": []
